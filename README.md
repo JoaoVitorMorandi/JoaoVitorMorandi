@@ -34,7 +34,7 @@
   <img align="center" alt="mongodb" marginRight="10" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png">
   <img align="center" alt="dotnet" marginRight="10" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png">
   <img align="center" alt="aspnet" marginRight="10" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/aspnet/aspnet.png">
- <img align="center" alt="rabbitmq" marginRight="10" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/aspnet/rabbitmq.png">
+ <img align="center" alt="rabbitmq" marginRight="10" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/rabbitmq/rabbitmq.png">
  <img align="center" alt="git" marginRight="10" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
  <img align="center" alt="vscode" marginRight="10" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
  <img align="center" alt="intellij" marginRight="10" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
@@ -45,6 +45,10 @@
  <img align="center" alt="mongodb" marginRight="10" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo">
 </div>
 <br>
+
+## 📌 Featured Projects  
+
+- **Pagges** – A mobile app designed to connect readers, built with React Native (Expo) and NestJS, integrated with Google Books API. Awarded as the Top Project of the 2025/1 semester at PUCRS.
 
 ## 🌍 Connect with me
 
