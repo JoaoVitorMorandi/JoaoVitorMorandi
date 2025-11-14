@@ -1,15 +1,22 @@
 ### Hi, there! I'm João Vitor Morandi! 👾
 
+## 📊 GitHub Stats 
+
  ![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVitorMorandi&show_icons=true&theme=transparent)
 
- **About me**
+ ## 🤘 About me
  
 - 💼 I'm a Fullstack Software Engineer at [Dell Technologies](https://www.dell.com/)
 - 🔧 Contributing to international projects with Java, Spring Boot, TypeScript, Angular, React and RabbitMQ
 - 🎓 Software Engineering student (PUCRS, 8th semester).
 - 👩‍💻 Currently I'm studying Docker and AWS!
+- 🎸 Fun fact: I'm a guitar player!
+
+## 🔧 My Top Languages
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorMorandi&layout=compact)](https://github.com/JoaoVitorMorandi/github-readme-stats)
+
+## 🤓 Tech Stack
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -27,8 +34,19 @@
   <img align="center" alt="mongodb" marginRight="10" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png">
   <img align="center" alt="dotnet" marginRight="10" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png">
   <img align="center" alt="aspnet" marginRight="10" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/aspnet/aspnet.png">
+ <img align="center" alt="rabbitmq" marginRight="10" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/aspnet/rabbitmq.png">
+ <img align="center" alt="git" marginRight="10" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+ <img align="center" alt="vscode" marginRight="10" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+ <img align="center" alt="intellij" marginRight="10" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
+ <img align="center" alt="mysql" marginRight="10" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+ <img align="center" alt="postgresql" marginRight="10" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+ <img align="center" alt="docker" marginRight="10" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="40" alt="docker logo">
+ <img align="center" alt="nestjs" marginRight="10" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo">
+ <img align="center" alt="mongodb" marginRight="10" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo">
 </div>
 <br>
+
+## 🌍 Connect with me
 
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-morandi-6b0b0b234/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jvitormorandi@gmail.com)
