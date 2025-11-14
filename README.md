@@ -25,6 +25,7 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/anishere/profile/master/spring_boot_logo.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
   <img align="center" alt="Typescript" height="30" width="30" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
   <img align="center" alt="C#" marginRight="10" height="30" width="30" src="https://logospng.org/download/c-sharp/c-sharp-768.png">
