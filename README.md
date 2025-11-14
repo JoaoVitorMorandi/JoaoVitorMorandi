@@ -34,7 +34,7 @@
   <img align="center" alt="mongodb" marginRight="10" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png">
   <img align="center" alt="dotnet" marginRight="10" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png">
   <img align="center" alt="aspnet" marginRight="10" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/aspnet/aspnet.png">
- <img align="center" alt="rabbitmq" marginRight="10" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/main/topics/rabbitmq/rabbitmq.png">
+ <img align="center" alt="rabbitmq" marginRight="10" height="30" width="30" src="https://github.com/get-icon/geticon/blob/master/icons/rabbitmq-logo.svg">
  <img align="center" alt="git" marginRight="10" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
  <img align="center" alt="vscode" marginRight="10" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
  <img align="center" alt="intellij" marginRight="10" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
